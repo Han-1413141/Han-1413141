@@ -40,3 +40,9 @@ npx codex-context-map . --html context-map.html
 目前主要使用 JavaScript 和 Node.js 开发浏览器界面与命令行工具，重视可复现的问题、针对修复的回归测试、清楚的安装说明和明确的功能边界。
 
 如果遇到问题或有具体使用需求，欢迎在对应仓库提交 issue。提供最小示例、预期行为和实际结果，便于定位与讨论。中文、英文都可以。
+## DSH 插件
+
+[9 个插件的用途、截图与安装命令](DSH_PLUGINS.md) · [English](DSH_PLUGINS.en.md)
+
+覆盖 Windows/WSL 会话、网页可视化修改、按任务组合插件、兼容性修复、构建脚本审批、费用统计、界面管理和 Windows Computer Use。
+

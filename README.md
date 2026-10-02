@@ -28,6 +28,12 @@ npx codex-context-map . --html context-map.html
 
 [Try the demo](https://han-1413141.github.io/codex-context-map/) · [Discovery rules and limitations](https://github.com/Han-1413141/codex-context-map/blob/main/docs/semantics.md) · [CI](https://github.com/Han-1413141/codex-context-map/actions/workflows/ci.yml)
 
+## DSH plugin collection
+
+[Nine plugins, screenshots and install commands](DSH_PLUGINS.en.md) · [中文介绍](DSH_PLUGINS.md)
+
+Windows/WSL sessions, visual webpage feedback, task-based plugin composition, compatibility recovery, build-script approval, cost tracking, interface controls and Windows Computer Use.
+
 ## More tools
 
 | Project | What it does |
