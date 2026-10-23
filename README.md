@@ -1,6 +1,6 @@
 # Han
 
-I build tools that make AI coding workflows easier to inspect and use: **cost tracking, instruction debugging, and plugin interfaces**.
+I build tools that make AI coding workflows easier to inspect and use: **cost tracking and plugin interfaces**.
 
 [简体中文](README.zh-CN.md) · [Projects](https://github.com/Han-1413141?tab=repositories) · [Open-source contributions](https://github.com/pulls?q=is%3Apr+author%3AHan-1413141+-user%3AHan-1413141)
 
@@ -15,18 +15,6 @@ Understand where your AI coding spend goes. A DeepSeek Harness plugin for per-se
 - Developed around community reports and documented fixes.
 
 [Installation](https://github.com/Han-1413141/dsh-cost-meter#installation) · [Screenshots and usage](https://github.com/Han-1413141/dsh-cost-meter#feature-overview) · [Changelog](https://github.com/Han-1413141/dsh-cost-meter/blob/master/CHANGELOG.md)
-
-### [Codex Context Map](https://github.com/Han-1413141/codex-context-map)
-
-See which `AGENTS.md` files are discovered, which overrides hide other files, and where a byte budget cuts off instructions. Includes a CLI and an interactive offline report, with no runtime dependencies.
-
-```sh
-npx codex-context-map . --html context-map.html
-```
-
-[![Codex Context Map: directory tree, instruction chain, and byte budget](https://raw.githubusercontent.com/Han-1413141/codex-context-map/main/docs/assets/preview.png)](https://han-1413141.github.io/codex-context-map/)
-
-[Try the demo](https://han-1413141.github.io/codex-context-map/) · [Discovery rules and limitations](https://github.com/Han-1413141/codex-context-map/blob/main/docs/semantics.md) · [CI](https://github.com/Han-1413141/codex-context-map/actions/workflows/ci.yml)
 
 ## DSH plugin collection
 
